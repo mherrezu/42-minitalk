@@ -4,6 +4,7 @@
 
 The purpose of this project is to create a small data exchange program using UNIX signals between client and server.
 
+![showcase](https://github.com/mherrezu/42-minitalk/assets/114182402/5bd62c1a-e0ff-441e-b529-a6d0ddb64b30)
 
 # :computer: Technologies
 
